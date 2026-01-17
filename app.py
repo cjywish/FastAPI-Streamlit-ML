@@ -3,6 +3,7 @@ import requests
 import pandas as pd
 
 # predict iris 
+# with fastapi , streamlit
 st.set_page_config(page_title="Iris 분류 및 로그 시스템", layout="wide")
 
 st.title("🌸 Iris 꽃 분류 서비스 (ML + FastAPI + DB)")
